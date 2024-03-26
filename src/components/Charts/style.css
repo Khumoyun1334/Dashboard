@@ -1,0 +1,20 @@
+/* .MuiChartsLegend-mark {
+  display: none;
+  z-index: -999 !important;
+  text-decoration: none;
+}
+
+/* .MuiChartsAxis-root {
+  color: #fff;
+} */
+/* @media screen and (max-width: 769px) {
+  .gridCard {
+    display: grid;
+    grid-template-columns: auto !important;
+    margin-inline: 0 !important;
+  }
+  .card {
+    width: 100% !important;
+    height: 70px !important;
+  }
+} */
